@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297659435436",
+    "firebase_url": "https://gestao-de-alunos-fabricio.firebaseio.com",
+    "project_id": "gestao-de-alunos-fabricio",
+    "storage_bucket": "gestao-de-alunos-fabricio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297659435436:android:6e78e23f27cf2c2fa71209",
+        "android_client_info": {
+          "package_name": "com.example.gestaodealunos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297659435436-ruedqogac5a8133n7n04lrb196188922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKa3qiEA2zH61yww_y4HUqmD_HyXFawLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297659435436-ruedqogac5a8133n7n04lrb196188922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
